@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding:0;
+    background-image: url('../imagenes/kakashi2.jfif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:rgb(244, 244, 246);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+body a{
+    
+
+    position: absolute;
+    top: 5%;
+    left: 90%;
+  
+
+}
+h2{
+    color:rgb(48, 23, 126);
+}
+.xd {
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px; 
+    text-align: center; 
+}
+
+
